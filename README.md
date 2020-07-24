@@ -1,3 +1,3 @@
 # hello-world
 Hello so!
-Me classical guitar player willing to have my pieces of written music seen, read and played.
+Change my message to show that obvious thing which is that writing code to an application hasn't been possible yet!
